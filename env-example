@@ -1,0 +1,18 @@
+
+
+#DB MASTER
+DB_HOST_MASTER = localhost
+DB_USERNAME_MASTER = root
+DB_PASSWORD_MASTER = ""
+DB_NAME_MASTER = db_penjualan_master
+DB_PORT = 3306
+
+
+#DB SLAVE
+DB_HOST_SLAVE = localhost
+DB_USERNAME_SLAVE = root
+DB_PASSWORD_SLAVE = ""
+DB_NAME_SLAVE = db_penjualan_slave
+
+
+SERVER_PORT = 4123
